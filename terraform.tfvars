@@ -1,4 +1,4 @@
-resource_group_name     = "TaskBoardRG-4"
+resource_group_name     = "TaskBoardRG"
 resource_group_location = "North Europe"
 app_service_plan_name   = "taskboard-sp-4"
 sql_server_name         = "taskboard-sqlserver-4"
